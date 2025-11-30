@@ -84,7 +84,7 @@ public class Solution{
 //         b--;
 //         System.out.print(b);
 //     }
-// }
+// } Ans: 127
 
 // public class Test {
 //     public static void main(String[] args) {
@@ -92,7 +92,7 @@ public class Solution{
 //         b += 5;   // b=b+5 
 //         System.out.print(b);
 //     }
-// }
+// } Ans : -126
 
 // public class Test {
 //     public static void main(String[] args) {
@@ -100,14 +100,14 @@ public class Solution{
 //         c++;
 //         System.out.print((int)c);
 //     }
-// }
+// } Ans: 0
 // public class Test {
 //     public static void main(String[] args) {
 //         short s = 32767;
 //         s++;
 //         System.out.print(s);
 //     }
-// }
+// } Ans: -32768
 
 // public class Test {
 //     public static void main(String[] args) {
@@ -115,4 +115,4 @@ public class Solution{
 //         b = (byte)(b * 3);
 //         System.out.print(b);
 //     }
-// }
+// } Ans: -128
